@@ -1,0 +1,77 @@
+* {
+	font-family: Tahoma, arial;
+	font-size: 20px;
+
+}
+
+body {
+	margin: 0 15%;
+	color: black;
+}
+
+header {
+	position: fixed;
+	height: 70px;
+	width: 70%;
+	
+}
+
+footer {
+	height: 50px;
+	color: red;
+}
+
+.logo {
+	float: left;
+
+}
+
+.logo img {
+	width:60px;
+	float: left;
+
+}
+
+.logo-text {
+	float: left;
+	margin: 20px 10px;
+	color: red;
+
+}
+
+.menu {
+	float: right;
+
+	
+}
+ul li{
+	display: inline;
+	margin: 0%;
+
+}
+
+ .cuc-bai-viet {
+
+    width: 40%;
+
+    height: 250px;
+
+    float: left;
+
+    background-image: url("https://whichbeach.com.mt/images/background/beach-fallback-1-1.jpg");
+
+    margin: 40px 40px;
+    padding: 10px 5px;
+    overflow: auto;
+}
+
+
+
+
+.clear-both {
+
+    clear: both;
+
+}
+
+
